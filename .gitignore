@@ -1,0 +1,15 @@
+build/
+out/
+*.o
+*.a
+*.so
+*.dll
+*.lib
+*.exe
+app
+test_unit
+test_integration
+variant_14
+.vscode/
+.idea/
+compile_commands.json
